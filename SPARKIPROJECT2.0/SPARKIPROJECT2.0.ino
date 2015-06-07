@@ -4,9 +4,7 @@
 
 void setup()
 {
-}
-void loop()
-{
+
     sparki.beep();       // Sparki beeps!
     delay(1000);         // wait a second (1000 milliseconds)
     
@@ -22,10 +20,10 @@ void loop()
 
 	sparki.moveStop();
 	delay(1000);
+
+}
+void loop()
+{
+
     
 }
-
-
-
-
-  
