@@ -4,9 +4,11 @@ One repo for the start of some Sparki testing
 
 Sebren’s Robot Projects
 
-Learning simple commands and instructions in C. Using Sparkduino do each of these projects. 
+Learning simple commands and instructions in a programming language called C. 
 
-Sample code can be found here: http://arcbotics.com/lessons/basic-code/
+Using Sparkduino create each of these projects. 
+
+Sample Sparki code can be found here: http://arcbotics.com/lessons/basic-code/
 Download Sparkduino: http://arcbotics.com/lessons/sparkiduino-osx-install-guide/
 
 In a Sparki Project, there is a Setup section and a Loop section.
