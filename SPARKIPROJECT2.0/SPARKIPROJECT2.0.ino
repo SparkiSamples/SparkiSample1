@@ -1,5 +1,6 @@
 #include <Sparki.h>  // include the sparki library
 // We should do this in SETUP .. not Loop
+// Making new notes
 
 
 void setup()
